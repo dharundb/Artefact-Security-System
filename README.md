@@ -33,5 +33,5 @@ Museums display artifacts to the public in open displays. Our device acts as a b
 
 - [DHARUN BHARATHI S](https://github.com/dharundb)
 - [BHARATH S](https://github.com/Bharath1811)
-- [ADITYA SRIRAM]()
+- [ADITYA SRIRAM](https://github.com/Adhi1410)
 - [TS SWAMINATHAN]()
