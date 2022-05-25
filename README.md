@@ -25,7 +25,7 @@ Museums display artifacts to the public in open displays. Our device acts as a b
 
 ![Logo](https://content.arduino.cc/assets/arduino_logo_1200x630-01.png)
 
-## Language
+## Language used
 
 ![Logo](https://nise.org.pk/wp-content/uploads/2021/02/1_mDKusLBkGKBWW4aycK4PCA.png)
 
@@ -34,4 +34,4 @@ Museums display artifacts to the public in open displays. Our device acts as a b
 - [DHARUN BHARATHI S](https://github.com/dharundb)
 - [BHARATH S](https://github.com/Bharath1811)
 - [ADITYA SRIRAM](https://github.com/Adhi1410)
-- [TS SWAMINATHAN]()
+- [TS SWAMINATHAN](https://github.com/krishsundar17)
