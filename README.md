@@ -27,7 +27,7 @@ Museums display artifacts to the public in open displays. Our device acts as a b
 
 ## Language used
 
-![Logo](https://nise.org.pk/wp-content/uploads/2021/02/1_mDKusLBkGKBWW4aycK4PCA.png)
+![Logo](https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg)
 
 ## Authors
 
